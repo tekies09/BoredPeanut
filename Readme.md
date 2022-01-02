@@ -42,7 +42,7 @@
 ## 주요화면
 **주요 화면 4컷 미리보기**  
   
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/result.JPG)
+![캡처](https://github.com/tekies09/BoredPeanut/blob/master/img/BPImages.JPG)
 
 - [자세히](https://github.com/tekies09/BoredPeanut/tree/master/pages)
 
