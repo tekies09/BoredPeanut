@@ -1,24 +1,11 @@
-# happyhouse-hmt
+# BoredPeanut Download in Mobile
 
-## Project setup
+## APK Download 
 ```
-npm install
+download app-release.apk
 ```
-
-### Compiles and hot-reloads for development
+  
+## Run APK
 ```
-npm run serve
+run app-release.apk
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
