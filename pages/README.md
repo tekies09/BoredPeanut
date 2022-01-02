@@ -2,26 +2,21 @@
 
 **-메인페이지**
   
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/Main.JPG)
+![캡처](https://github.com/tekies09/BoredPeanut/blob/master/img/BPImages.JPG)
   
-**-로그인 및 회원가입**
+**-로그인 및 회원가입과 이메일 연동**
   
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/login.JPG)
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/signup.JPG)
+![캡처](https://github.com/tekies09/BoredPeanut/blob/master/img/login3.JPG)
   
-**-회원관리**
+**-심리테스트**
   
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/membermanage1.JPG)
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/membermanage2.JPG)
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/membermanage3.JPG)
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/memberchart.JPG)
+![캡처](https://github.com/tekies09/BoredPeanut/blob/master/img/test3.JPG)
   
-**-게시판**
+**-3종 게임**
   
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/board1.JPG)
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/board2.JPG)
+![캡처](https://github.com/tekies09/BoredPeanut/blob/master/img/game3.JPG)
+
   
-**-아파트 검색 및 주변 상권**
+**-다이어리 및 제작자 정보**
   
-  ![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/apartsearch.JPG)
-  ![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/interestwithsurround.JPG)
+  ![캡처](https://github.com/tekies09/BoredPeanut/blob/master/img/diary3.JPG)
